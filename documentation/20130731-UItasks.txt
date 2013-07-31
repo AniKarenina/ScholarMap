@@ -1,0 +1,13 @@
+UI dev tasks
+
+Update/manage my stuff - interaction design for the graph contents - less clunky, need to rethink how to do this.
+
+How to link in resources for the site and nav structure to help people find it
+
+Menu items - labels, structure
+
+Interaction for tagging - predictive entry - and for categories
+
+Where to put the "how to use the graph" and how to present it
+
+Something describing potential uses for the information
