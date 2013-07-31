@@ -1,0 +1,54 @@
+Wayne's Notes from 7/31/13 AM chat
+
+For what it’s worth – chat 7/31 10-11
+ 
+ 
+3.0 vision
+ 
+Vizualization - people, theory, projects, literature,
+ 
+Zoomable map, where am I? Discovery.
+ 
+Content management, ownership – what is right model? System?
+ 
+Community outreach
+ 
+Viz: D3
+ 
+CMS: Groovy on Rails
+ 
+mini animated GIF tutorial? Show what can be done with the diagrams.
+ 
+Our history, lists of people – static information. Prior IA works fine. Just port it.
+ 
+Badges, but not gamified!!!
+ 
+Visibility for their actions, help to grow volunteerism and ownership in our community
+ 
+“Ask me about”
+ 
+Contributions ** Best title for badges
+ 
+CSST stickers at physical events.
+ 
+CHI hangouts
+ 
+Consistent branding
+ 
+CSST Private foundation, future organizational structures
+ 
+ 
+hosted discussions, debates, annotations, deletions?
+ 
+user updated, not moderated
+ 
+Barrier to entry, very low, if you are interested in these things you are probably one of us, please join us! 
+ 
+ 
+What are tiers of access?
+ 
+How two pull people in? Be welcoming, pull people deeper
+ 
+Meeting next?
+ 
+Hold another “just work on this” meeting vs. planning

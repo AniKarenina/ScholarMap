@@ -1,0 +1,16 @@
+Notes from group discussion on 7/31/13 about what policies should include.
+
+Privacy policy -
+
+-not shared without consent
+-you can opt out
+-email address won't be made public but you may receive emails from community members/organizers via website, they won't see email address unless you reply to their site-based contact directly
+
+
+IP/TOU
+
+-disclaim liability
+-CC license?
+-IRB?
+
+Recruit Kristin Eschenfelder to help.

@@ -1,0 +1,31 @@
+7/31/13 Andrea's notes from discussing development strategy & details with Wayne
+
+Scale of system should be up to 500 people
+
+CIKnow by Sonic at Northwestern
+
+Need something to explain what you can do with the graphs, e.g., animated gif showing interaction design - no words or real effort to go through it, like a tiny tutorial.
+
+Structure site as less chaotic repository for "who we are" info like lists of workshops, organizers, etc.
+
+Static content can be tagged for easier access.
+
+Badges - concern that it will be viewed as a status marker or game of some kind. Not the intent to be exclusionary or a point of bragging, but to situate who this person is within the community by virtue of their participation. We have little to offer for volunteers, most are early career, so being able to publicly acknowledge this way could help to support advancement. Think of it as a thank-you and an invitation to "ask me about" stuff. Rather than markers of participation, make it about things you have contributed to the community. E.g., a "contributions" box.
+
+Branding - should reflect CSST rather than DSST.
+
+Managing contact and facilitating interaction between people - initial fear of requiring/creating bios was it could scare off some people, especially senior faculty. Contact should not be system-embedded messaging. Instead, emails are not exposed but use a contact form with embedded mailto and ability to target small dynamic lists of people for whom message may be relevant.
+
+How to get people to self-curate profiles? Form or wizard, structured - links, name, maybe a 140-character bio, tags.
+
+Show ways to correct errors or update information - make the network less opaque. Specifically identify what information feeds the network viz. Invite people to redo their original data contribution so that if they want to clean it up before it becomes visible, they have a way.
+
+Can't play until you login? Only the demo or a "safe default" version of the graph, full functionality upon login. You're not part of the graph until you add something - prevents isolates and doesn't mean that login is automatic add to the graph.
+
+Initial user engagement for newbies: name/email entry only required part; reminders to fill in details after that. Keep the barrier to entry very low and then invite people to engage.
+
+Make it clear that the content is crowd wisdom and your opinion doesn't override another's. So basically no deletion of connections or concepts that others have added, just commenting or annotation of those concepts so that people can make note of alternate interpretations/definitions, etc. May have to make it hierarchical eventually but that should happen when there's need and that won't be right away.
+
+To keep the work going, coworking groups seem most effective. Need to rope off time so that it can get done, that just doesn't happen effectively when we're at home in the thick of the everyday stuff.
+
+Are there easy questions we can ask of participants for feedback? Rollout, what kinds of categories, feature prioritization, labels for categories, departments, organizations, syllabi. Collect syllabi as resources, doesn't just help with course design or self-orientation but also with demonstrating impact.
